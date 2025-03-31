@@ -1,11 +1,19 @@
-基于python开发的一款颜色获取工具，可便捷、快速、准确的获取屏幕上的色彩（RGB值，以及十六进制数值）
-It is a color acquisition tool developed based on Python. It can conveniently, quickly and accurately obtain the colors on the screen (RGB values and hexadecimal values).
+基于python开发的一款颜色获取工具，可便捷、快速、准确的获取屏幕上的色彩(RGB值，以及十六进制数值)
+It is a color acquisition tool developed based on Python. It can conveniently, quickly 和 accurately obtain the colors on the screen (RGB values 和 hexadecimal values).
 这款程序内置快捷键，体量小，使用方便。
 This program has built-in shortcut keys, small size, easy to use.
-基础功能（Basic function）：
+
+
+基础功能(Basic function)：
 获取鼠标当前颜色的RGB值以及十六进制数值。
-Gets the RGB value and hexadecimal value of the current color of the mouse
-快捷键（Shortcut key）：
+Gets the RGB value 和 hexadecimal value of the current color of the mouse.
+使用方法(Usage method):
+打开后缀为.exe的文件运行即可。
+Open the.exe file 和 run it.
+
+
+
+快捷键(Shortcut key)：
 Ctrl+C 复制RGB值以及十六进制值(Copy RGB values 和 hexadecimal values)
 Ctrl+X 复制RGB值(Copy RGB)
 Ctrl+Z 复制十六进制值(Copy hexadecimal values)
