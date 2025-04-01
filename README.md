@@ -27,3 +27,6 @@ Ctrl+A 选择鼠标当前颜色(Select the current color of the mouse)
 Ctrl+B 开启/关闭实时刷新(Enable or disable real-time refresh)
 
 
+文件中附带了源代码，如果将本程序加入自己的项目中请备注来源！
+The source code is attached to the file. If you add this program to your own project, please note the source!
+
